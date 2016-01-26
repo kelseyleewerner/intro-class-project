@@ -6,3 +6,16 @@ img {
   background-image: url("images/beach.jpg");
   height: 500px;
 }
+
+h1 {
+  text-align: center;
+}
+
+@media (min-width: 0px) and (max-width: 400px) {
+  .col-md-4 {
+    color: yellow;
+  }
+  body {
+    background-color: green;
+  }
+}
