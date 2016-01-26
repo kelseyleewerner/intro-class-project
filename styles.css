@@ -1,0 +1,8 @@
+img {
+  width: 200px;
+}
+
+.background {
+  background-image: url("images/beach.jpg");
+  height: 500px;
+}
